@@ -1,7 +1,7 @@
 body{
     margin:0;
     background-color: white;
-    font-family: "Source Sans 3";
+    font-family: "Source Sans 3",sans-serif;
     background-color: #001D37;
 }
 .top-section{
@@ -31,8 +31,6 @@ p{
     padding-left: 40px;
     padding-right: 40px;
     border-radius: 71px;
-    width:154px;
-    height:46px;
     font-size:18px;
     font-weight: 600;
 }
@@ -40,10 +38,8 @@ p{
     background-color: #001D37;
     color: #FFFFFF;
     padding:14px 40px;
-    width:177px;
-    height:46px;
+    
     border-radius: 71px;
     font-weight:600;
     font-size:18px;
-
 }
