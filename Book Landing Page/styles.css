@@ -30,6 +30,7 @@
 }
 .header_navigation{
     display: flex;
+    align-items: center;
 }
 .header_navigation a{
     font-weight: 400;
