@@ -13,14 +13,19 @@ body{
     width:525px;
     height:429px;
 }
+.description-buttons{
+    margin-right: 90px;
+}
 h1{
     margin-top: 0;
     font-size: 100px;
     font-weight: 700;
+    line-height: 97.3px;
 }
 p{
     font-size:20px;
     font-weight: 400;
+    line-height: 33.86px;
 }
 .view{
     background-color: #475AFF;
@@ -33,13 +38,16 @@ p{
     border-radius: 71px;
     font-size:18px;
     font-weight: 600;
+    line-height: 17.514px;
 }
 .manage{
     background-color: #001D37;
     color: #FFFFFF;
     padding:14px 40px;
-    
+    border:2px solid white;
     border-radius: 71px;
     font-weight:600;
     font-size:18px;
+    margin-left:11px;
+    line-height: 17.514px;
 }
