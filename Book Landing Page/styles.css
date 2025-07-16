@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 81px;
+    padding-left: 126px;
+    padding-right: 83px;
+    max-width: 1231px;
+    font-family: "Istok web";
+    color: #013456;
+    margin:0 auto;
+}
+.header_title{
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    padding-bottom: 14px;
+    padding-top: 8px;
+}
+.header_title span{
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 10px;
+}
+.paper_plane{
+    height: 36px;
+    width:36px;
+}
+.header_navigation{
+    display: flex;
+}
+.header_navigation a{
+    font-weight: 400;
+    font-size: 36px;
+}
+.nav_about, .nav_books, .nav_logs, .nav_contact{
+    margin-left: 29px;
+}
