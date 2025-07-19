@@ -1,11 +1,13 @@
 .header{
     display: flex;
     flex-direction: row;
-    justify-content:space-between;
+    justify-content: space-between;
     align-items: center;
     padding-top: 81px;
     padding-left: 126px;
     padding-right: 83px;
+    width:1231px;
+    height:58px;
     max-width: 1231px;
     font-family: "Istok web";
     color: #013456;
@@ -40,4 +42,21 @@
 }
 .nav_about, .nav_books, .nav_logs, .nav_contact{
     margin-left: 29px;
+}
+.wrapper aside{
+    margin-top:46px;
+}
+.book_circle{
+    width:795px;
+    height:785px;
+    background-color: #FAD405;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -129px;
+    border-radius: 50%;
+}
+.book_image{
+    width:434px;
+    height:629px;
 }
