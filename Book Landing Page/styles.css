@@ -55,6 +55,7 @@
     align-items: center;
     margin-left: -129px;
     border-radius: 50%;
+    border: 1px solid #000000;
 }
 .book_image{
     width:434px;
