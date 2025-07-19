@@ -31,6 +31,8 @@
 .header_navigation{
     display: flex;
     align-items: center;
+    width:607px;
+    height:52px;
 }
 .header_navigation a{
     font-weight: 400;
