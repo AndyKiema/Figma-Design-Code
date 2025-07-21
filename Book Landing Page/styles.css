@@ -67,4 +67,16 @@
 }
 .book_text{
     margin-left: 80px;
+    font-family: "Poppins";
+}
+.bold_text{
+    font-weight: bold;
+    font-size: 48px;
+    color: #013456;
+    width:556px;
+    height:288px;
+}
+.explanation{
+    font-weight: 200;
+    font-size: 20px;
 }
