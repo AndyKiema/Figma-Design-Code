@@ -61,3 +61,10 @@
     width:434px;
     height:629px;
 }
+.wrapper{
+    display:flex;
+    justify-content: space-between;
+}
+.book_text{
+    margin-left: 80px;
+}
