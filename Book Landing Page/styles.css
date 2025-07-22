@@ -40,6 +40,7 @@
     font-weight: 400;
     font-size: 36px;
     text-decoration: none;
+    color: #013456;
 }
 .nav_about, .nav_books, .nav_logs, .nav_contact{
     margin-left: 29px;
