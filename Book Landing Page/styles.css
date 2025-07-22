@@ -43,9 +43,6 @@
 .nav_about, .nav_books, .nav_logs, .nav_contact{
     margin-left: 29px;
 }
-.wrapper aside{
-    margin-top:46px;
-}
 .book_circle{
     width:795px;
     height:785px;
@@ -63,10 +60,9 @@
 }
 .wrapper{
     display:flex;
-    justify-content: space-between;
+    gap:80px;
 }
 .book_text{
-    margin-left: 8px;
     font-family: "Poppins";
 }
 .bold_text{
