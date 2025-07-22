@@ -39,6 +39,7 @@
 .header_navigation a{
     font-weight: 400;
     font-size: 36px;
+    text-decoration: none;
 }
 .nav_about, .nav_books, .nav_logs, .nav_contact{
     margin-left: 29px;
