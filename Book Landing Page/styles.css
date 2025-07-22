@@ -72,6 +72,7 @@
     width:556px;
     margin-bottom: 0;
     margin-top: 91px;
+    line-height: 72px;
 }
 .explanation{
     font-weight: 200;
@@ -79,6 +80,7 @@
     margin-bottom: 14px;
     width:500px;
     height:30px;
+    line-height: 30px;
 }
 .book{
     margin-top: 46px;
