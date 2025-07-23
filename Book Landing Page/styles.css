@@ -73,14 +73,14 @@
     font-size: 48px;
     color: #013456;
     width:556px;
-    margin-bottom: 0;
-    margin-top: 91px;
+    margin-top: 85px;
     line-height: 72px;
+    margin-bottom: 22px;
 }
 .explanation{
     font-weight: 200;
     font-size: 20px;
-    margin-bottom: 14px;
+    margin-bottom: 62px;
     width:500px;
     line-height: 30px;
     display:block;
@@ -89,7 +89,6 @@
     margin-top: 46px;
 }
 .buttons button{
-   margin-top: 50px;
    font-family: "Poppins";
    font-weight: bold;
    border: none;
