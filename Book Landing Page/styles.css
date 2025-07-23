@@ -55,6 +55,7 @@
     margin-left: -129px;
     border-radius: 50%;
     border: 1px solid #000000;
+    margin-bottom: 54px;
 }
 .book_image{
     width:434px;
@@ -88,10 +89,12 @@
     margin-top: 46px;
 }
 .buttons button{
-   margin-top: 63px;
+   margin-top: 50px;
    font-family: "Poppins";
    font-weight: bold;
    border: none;
+   font-size: 32px;
+   border-radius: 50px;
 }
 .buy{
    width:249px;
@@ -104,4 +107,5 @@
    height:80px;
    color: white;
    background-color: #013456;
+   margin-left: 49px;
 }
