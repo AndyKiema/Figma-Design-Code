@@ -81,9 +81,12 @@
     font-size: 20px;
     margin-bottom: 14px;
     width:500px;
-    height:30px;
     line-height: 30px;
+    display:block;
 }
 .book{
     margin-top: 46px;
+}
+.buttons button{
+   margin-top: 63px;
 }
