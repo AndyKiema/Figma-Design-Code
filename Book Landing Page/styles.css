@@ -89,4 +89,19 @@
 }
 .buttons button{
    margin-top: 63px;
+   font-family: "Poppins";
+   font-weight: bold;
+   border: none;
+}
+.buy{
+   width:249px;
+   height:80px;
+   color: #013456;
+   background-color: #FAD405;
+}
+.read{
+   width:273px;
+   height:80px;
+   color: white;
+   background-color: #013456;
 }
